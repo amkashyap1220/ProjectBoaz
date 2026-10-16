@@ -111,7 +111,7 @@ Issues and pull requests are welcome once the first code lands. Please don't ask
 
 ## License
 
-[MIT](LICENSE). Provided as is, with no warranty. You are responsible for every trade placed in your account.
+MIT. Provided as is, with no warranty. You are responsible for every trade placed in your account.
 
 ## Disclaimer
 
